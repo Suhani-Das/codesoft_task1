@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=egde">
+	<title>Explore.com</title>
+<link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+<link rel="stylesheet"  type="text/css" href="demo.css">
+
+</head>
+<body>
+<nav>
+
+<div class="topnav">
+<img src="D:\BACKUP\Downloads\plane2.jpg" class="logo">
+<a href="#" class="button">SIGN UP</a>
+<a href="#gallery">Gallery</a>
+<a href="#partners">Partners</a>
+<a href="#about">About Us</a>
+<a class="active" href="#home">Home</a>
+
+</div>
+</nav>
+<header id="showcase">
+<h1>"Let's Travel"</h1>
+<h3><b>EXPLORE WITH US</b></h3>
+<p><em><b>A travel agency is a private retailer or public service that provides travel and tourism-related services to the general public on behalf of accommodation or travel suppliers to offer different kinds of travelling packages for each destination. Travel agencies can provide outdoor recreation, arranging logistics for luggage and medical items delivery for travellers upon request, public transport timetables, car rentals, and bureau de change services. Travel agencies can also serve as general sales agents for airlines that do not have offices in a specific region.</b></em> </p>
+<p>
+<a href="#" class="button">Read more</a>
+<br><br><br>
+<br><br><br>
+<!--Contact Section-->
+    <div id="contactme">
+        <div class="contact"><h3>Contact Me:</h3>
+        <p id="cm"><i class="ri-mail-line"></i> Contact@example.com</p>
+    <p id="cm">
+        <i class="ri-customer-service-line"></i>789499XXXX
+    </p>
+<div class="social">
+    <a href="#"><i class="ri-facebook-box-line"></i></a>
+    <a href="#"><i class="ri-twitter-x-line"></i></a>
+    <a href="#"><i class="ri-instagram-line"></i></a>
+    <a href="#"><i class="ri-linkedin-box-line"></i></a>
+</div></div>
+    </div>
+
+</header>
+<footer>
+<p><em>Thanks for Visiting<em></p>
+
+</footer>
+</body>
+</html>
+
+
+
