@@ -1,0 +1,99 @@
+body {
+	margin=0;
+	font-family: Agbalumo;
+font-size:17px;
+color: black;
+line-heigth:1.6;
+border: 5px dashed black;
+}
+#showcase{
+background-image:url('https://img.freepik.com/premium-vector/background-travel-banner-world-map-passport-airline-tickets-sun-glasses-toy-airplane-poster-with-place-text_174639-36.jpg');
+background-size:cover;
+background-position:center;
+height:95vh;
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-items:center;
+padding: 0 20px;
+}
+
+#showcase h1{
+color:black;
+font-size:50px;
+font-family:Brush Script;
+line-height:1.2;
+}
+#showcase .button{
+background:#1b0133;
+font-size:18px;
+text-decoration:none;
+color:white;
+border:#2e094f 1px solid;
+padding:10px 20px;
+border-radius:10px;
+margin-top:20px;
+}
+#showcase .button:hover{
+background:#2e094f;
+color:#fff;
+}
+.topnav{
+background-color:black;
+overflow:hidden;
+border: 1px solid black;
+padding:10px 8px;
+}
+.topnav a{
+float:right;
+color:white;
+text-align:left;
+padding:14px 16px;
+text-decoration:17px;
+font-size:20px;
+}
+.topnav a:hover{
+background-color:red;
+color:white;
+}
+.topvav a.active{
+background-color:green;
+color:brown;
+}
+p{
+font-size:18px;
+color:black;
+}
+.logo{
+height:70px;
+width:70px;
+}
+.button{
+background-color: lightseagreen;
+border : 1px solid white;
+}
+.button:hover{
+background-color:lightyellow;
+}
+#contactme{
+    text-align: center;
+    font-size:10px;
+}
+#cm{
+    margin-top: 20px;
+}
+.social{
+    margin-top: 30px;
+}
+.social a{
+    text-decoration: none;
+    font-size: 30px;
+    margin-right: 15px;
+    color:black;
+    display: inline-block;
+    transition: transform 0.5s;
+}
+.social a:hover{
+    color: red;
+    transform: translateY(-5px);
+}
